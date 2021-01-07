@@ -3,7 +3,7 @@ html {
   font-size: 14px;
   font-family: "Open Sans", sans-serif
 }
-p, {
+p {
   color: blue;
   line-height: 2;
 }
@@ -15,6 +15,10 @@ img {
   display: block;
   margin: 0 auto;
 }
-.quote{
-	color:maroon;
+.quote, #mainquote{
+	color:red;
+}
+
+#mainquote{
+	border: 3px dashed green;
 }
