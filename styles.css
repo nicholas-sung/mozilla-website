@@ -11,3 +11,7 @@ ul {
   color: teal;
   border: 3px solid black;
 }
+img {
+  display: block;
+  margin: 0 auto;
+}
