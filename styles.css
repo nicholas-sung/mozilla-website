@@ -1,3 +1,9 @@
 html {
   background-color: pink;
+  font-size: 14px;
+  font-family: "Open Sans", sans-serif
+}
+p, ul {
+  color: blue;
+  border: 1px solid black;
 }
